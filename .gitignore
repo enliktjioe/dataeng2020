@@ -6,3 +6,5 @@ TA_Solution/
 P05_Apache_Kafka_Java/kafka-students/.idea/
 
 *.iml
+
+P05_Apache_Kafka_Java/kafka-students/target/
