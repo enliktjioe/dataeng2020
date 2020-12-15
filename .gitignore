@@ -8,3 +8,7 @@ P05_Apache_Kafka_Java/kafka-students/.idea/
 *.iml
 
 P05_Apache_Kafka_Java/kafka-students/target/
+
+P08_DataWrangling/data/enlik_cleaned_loans_2007.csv
+
+P08_DataWrangling/data/filtered_loans_2007.csv
